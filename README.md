@@ -29,3 +29,34 @@ To run this project, you will need the following installed on your system:
 ```bash
 git clone https://github.com/VivekkumarChauhan/Customer-Segmentation-Using-K-Means-Clustering.git
 cd Customer Segmentation Using K-Means Clustering
+```
+### Step 2: Create a Virtual Environment (Optional but recommended)
+If you want to create an isolated environment for the project:
+# Create virtual environment
+```bash
+python -m venv venv
+
+# Activate virtual environment
+# On Windows:
+venv\Scripts\activate
+# On MacOS/Linux:
+source venv/bin/activate
+```
+### Step 3: Install Required Libraries
+```bash
+# Install necessary packages
+!pip install numpy pandas matplotlib seaborn scikit-learn
+```
+
+### Step 4: Run the Project
+1.**Launch Jupyter Notebook from your terminal by running:**
+```bash
+jupyter notebook
+```
+2.**Open the notebook file Customer-Segmentation-Using-K-Means-Clustering.ipynb and run all cells.**
+```bash
+jupyter notebook
+```
+## Dataset
+**The dataset is loaded from a remote URL:**
+- URL: https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv
