@@ -27,5 +27,5 @@ To run this project, you will need the following installed on your system:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/height-weight-clustering.git
+git clone https://github.com/VivekkumarChauhan/Customer-Segmentation-Using-K-Means-Clustering.git
 cd Customer Segmentation Using K-Means Clustering
